@@ -1,0 +1,4 @@
+[submodule "jebbobot"]
+	path = jebbobot
+	url = https://github.com/sebailfico/jebbobot.git
+	branch = master
